@@ -1,0 +1,3 @@
+# Bet-More
+
+Keine Lust mehr für ne Nutzeroberfläche...
